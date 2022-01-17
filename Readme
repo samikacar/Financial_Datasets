@@ -1,0 +1,12 @@
+All datasets presented here are extracted from '10-K filings' from companies' annual reports at 2019 downloaded from the EDGAR database submitted by the SEC.
+
+Public data is available at https://www.sec.gov/edgar/searchedgar/companysearch.html.
+
+All files are in csv format.
+
+Each column represents some of the tags or combinations of tags used in disclosed reports.
+
+Each row represents a company data consisting of values corresponding to the tag in the corresponding column in a company's annual report.
+
+If the value of the tag corresponding to the relevant column of the company is not present in the report, 0 is entered in the cell.
+
